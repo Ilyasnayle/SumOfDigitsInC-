@@ -1,0 +1,15 @@
+/home/coder_ilyas/Desktop/SumOfDigits/bin/Debug/net6.0/SumOfDigits
+/home/coder_ilyas/Desktop/SumOfDigits/bin/Debug/net6.0/SumOfDigits.deps.json
+/home/coder_ilyas/Desktop/SumOfDigits/bin/Debug/net6.0/SumOfDigits.runtimeconfig.json
+/home/coder_ilyas/Desktop/SumOfDigits/bin/Debug/net6.0/SumOfDigits.dll
+/home/coder_ilyas/Desktop/SumOfDigits/bin/Debug/net6.0/SumOfDigits.pdb
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/SumOfDigits.csproj.AssemblyReference.cache
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/SumOfDigits.AssemblyInfoInputs.cache
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/SumOfDigits.AssemblyInfo.cs
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/SumOfDigits.csproj.CoreCompileInputs.cache
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/SumOfDigits.dll
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/refint/SumOfDigits.dll
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/SumOfDigits.pdb
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/SumOfDigits.genruntimeconfig.cache
+/home/coder_ilyas/Desktop/SumOfDigits/obj/Debug/net6.0/ref/SumOfDigits.dll

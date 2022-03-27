@@ -1,0 +1,15 @@
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.AssemblyReference.cache
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfoInputs.cache
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfo.cs
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/coder_ilyas/Desktop/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2
+/home/coder_ilyas/Desktop/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.deps.json
+/home/coder_ilyas/Desktop/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.runtimeconfig.json
+/home/coder_ilyas/Desktop/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.dll
+/home/coder_ilyas/Desktop/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.pdb
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.dll
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/refint/ConsoleApp2.dll
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.pdb
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.genruntimeconfig.cache
+/home/coder_ilyas/Desktop/ConsoleApp2/obj/Debug/net6.0/ref/ConsoleApp2.dll
